@@ -7,5 +7,6 @@
 ## Pre-requisites:
 1) Graph Basics: DFS/ BFS/ Cycle Detection etc
 2) ```Binary Lifting```
-3) Disjoint Set union (not mandotory. I have given enough description)
- 
+3) Disjoint Set union (not mandatory. I have given enough description)
+
+ UPD: There's a cleaner way to scrape off the trees from the cycles. Apply the Kahn's algorithm to it and you'll just be left with the disjoint cycles
